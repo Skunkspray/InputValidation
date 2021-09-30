@@ -8,6 +8,7 @@ public class InputValidation {
   
   public static void main(String[] args){
     
+    //declare objects and variables
     Scanner scan = new Scanner(System.in);
     boolean askAgain = true;
     String answer = "";
