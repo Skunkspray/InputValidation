@@ -1,6 +1,8 @@
 // Jeff Blankenship
 // CS-151
 // Input Validation using a while loop
+//
+//
 
 import java.util.Scanner;
 
