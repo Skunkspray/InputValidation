@@ -1,6 +1,8 @@
 // Jeff Blankenship
 // CS-151
 // Input Validation using a while loop
+//
+//
 
 import java.util.Scanner;
 
@@ -8,6 +10,7 @@ public class InputValidation {
   
   public static void main(String[] args){
     
+    //declare objects and variables
     Scanner scan = new Scanner(System.in);
     boolean askAgain = true;
     String answer = "";
